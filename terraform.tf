@@ -1,10 +1,10 @@
 terraform {
 
   cloud {
-    organization = "hermann_company"
+    organization = "ISRAELLEHUB-HCP"
 
     workspaces {
-      name = "terraform-cloud-ec2"
+      name = "learn-terraform-cloud"
     }
   }
 
